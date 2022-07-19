@@ -1,6 +1,6 @@
 # GW2 Gold Tracker
 
-Download the gold tracker [here](https://www.mediafire.com/file/tw5dpyp7ycetrlb/GW2GT+v1.1.zip/file).
+Download the gold tracker [here](https://drive.google.com/file/d/1c-e6hdfkl6e41mLdsGX5O-J-f6C46eeM/view?usp=sharing).
 
 You need to create an API key from the ArenaNet website ([here](https://account.arena.net/applications)) and add at least the 'wallet' permission.
 
