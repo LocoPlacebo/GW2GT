@@ -1,4 +1,4 @@
-# GoldTracker
+# GW2 Gold Tracker
 
 Download the gold tracker [here]().
 
